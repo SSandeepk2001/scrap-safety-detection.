@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from ultralytics import YOLO
 from PIL import Image
+import cv2
+print(cv2.__version__)
 
 # --- PAGE SETTINGS ---
 st.set_page_config(page_title="🛡️ Scrap Safety Detection", page_icon="⚙️", layout="wide")
@@ -27,7 +29,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- LOAD YOLOv8 MODEL ---
-model_path = os.path.join("best.pt")
+model_path = os.path.join(r"S:\Enhace Hazard\best.pt")
 model = YOLO(model_path)
 
 # --- SIDEBAR ---
