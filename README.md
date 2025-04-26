@@ -4,18 +4,18 @@ A YOLOv8 and Streamlit-based system for real-time detection of hazardous materia
 🚀 Client: India's leading manufacturer and supplier of TMT Bars
 
 
-📌 Business Problem
+# 📌 Business Problem
 A leading scrap procurer collects metal scraps, which collectively go into a blast furnace to produce liquid steel.
 Hazardous (exploding) materials, including closed containers, are entering the furnace, disrupting furnace durability and posing serious safety threats to workers.
 
 
-🎯 Business Objective
+# 🎯 Business Objective
 Automate the process using AI.
 
 Maximize blast furnace safety by detecting hazardous substances, especially closed containers, upfront.
 
 
-⚙️ Solution Approach
+# ⚙️ Solution Approach
 Model Used: YOLOv8
 
 Deployment: Streamlit Web App
@@ -23,11 +23,9 @@ Deployment: Streamlit Web App
 Features: Image and Video detection of hazardous materials.
 
 
-🚧 Business Constraints
+# 🚧 Business Constraints
 Minimize costs.
-
 Ensure high accuracy in detecting closed containers.
-
 Improve worker and environment safety.
 
 
@@ -37,7 +35,7 @@ Machine Learning Success | 🎯 Achieve 90%+ accuracy in hazardous material dete
 Economic Success | 💰 Reduce manual inspection costs significantly.
 
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 Python
 YOLOv8
 OpenCV
@@ -46,12 +44,12 @@ PIL
 NumPy
 
 
-📈 Performance Metrics
+# 📈 Performance Metrics
 Model Accuracy: 90%+
 Hazard Detection Response Time: < 2 seconds
 
 
-📄 LICENSE
+# 📄 LICENSE
 MIT License
 
 Copyright (c) 2025 [Sandeep kumar]
