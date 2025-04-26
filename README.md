@@ -25,7 +25,9 @@ Features: Image and Video detection of hazardous materials.
 
 # 🚧 Business Constraints
 Minimize costs.
+
 Ensure high accuracy in detecting closed containers.
+
 Improve worker and environment safety.
 
 
@@ -37,15 +39,21 @@ Economic Success | 💰 Reduce manual inspection costs significantly.
 
 # 🧰 Tech Stack
 Python
+
 YOLOv8
+
 OpenCV
+
 Streamlit
+
 PIL
+
 NumPy
 
 
 # 📈 Performance Metrics
 Model Accuracy: 90%+
+
 Hazard Detection Response Time: < 2 seconds
 
 
