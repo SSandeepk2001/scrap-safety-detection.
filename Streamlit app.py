@@ -6,8 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from ultralytics import YOLO
 from PIL import Image
-import cv2
-print(cv2.__version__)
+
 
 # --- PAGE SETTINGS ---
 st.set_page_config(page_title="🛡️ Scrap Safety Detection", page_icon="⚙️", layout="wide")
