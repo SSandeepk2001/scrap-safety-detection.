@@ -29,7 +29,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- LOAD YOLOv8 MODEL ---
-model_path = os.path.join(r"S:\Enhace Hazard\best.pt")
+model_path = os.path.join("best.pt")
 model = YOLO(model_path)
 
 # --- SIDEBAR ---
