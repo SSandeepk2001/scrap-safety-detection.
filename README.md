@@ -58,7 +58,9 @@ Hazard Detection Response Time: < 2 seconds
 
 ## 🌍 Demo
 
-🧪 Try it on Streamlit Cloud (Live Demo):[Click-Here] (https://scrap-safety-detection-pqmrgeqmxbnkmnd4yf6dgc.streamlit.app/)
+🧪 Try it on Streamlit Cloud (Live Demo):
+            [Click💁‍♂️Here](https://scrap-safety-detection-pqmrgeqmxbnkmnd4yf6dgc.streamlit.app/))
+
 
 
 
